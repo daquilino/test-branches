@@ -3,4 +3,10 @@
 3. this was added from new-branch after adding 4 from master and  'git pull origin new-branch'. 
 4. this was changed in master after new-branch push which added line 3.
 
+
 5. change made in new-branch.
+
+
+
+6. change made in master.
+
