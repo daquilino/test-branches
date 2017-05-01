@@ -2,3 +2,4 @@
 2. this line is only in branch branch1
 3. this was added from new-branch after adding 4 from master and  'git pull origin new-branch'. 
 4. this was changed in master after new-branch push which added line 3.
+6. change made in master.
